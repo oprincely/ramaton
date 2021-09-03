@@ -42,4 +42,4 @@ data = {
 "first_vowel": "E"
 }
 
-try it here: 
+try it here: https://su16oe.deta.dev/docs#/
