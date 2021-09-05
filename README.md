@@ -43,3 +43,4 @@ data = {
 }
 
 try it here: https://su16oe.deta.dev/docs#/
+see demo here: https://princely.com.ng/demo/index.html
