@@ -1,5 +1,5 @@
 # ramaton
-Matthew Oliver Goodwin: NUMEROLOGY; The Complete Guide API (Automation)
+Matthew Oliver Goodwin: NUMEROLOGY; The Complete Guide API (Automation with python)
 
 category: Religion/spirituality/numerology
 
