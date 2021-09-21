@@ -1,7 +1,7 @@
 # ramaton
-Matthew Oliver Goodwin: NUMEROLOGY; The Complete Guide API
+Matthew Oliver Goodwin: NUMEROLOGY; The Complete Guide API (Automation)
 
-category: spirituality/numerology
+category: Religion/spirituality/numerology
 
 small_description:
 Once upon a time, I met Matthew Oliver Goodwin, Through his NUMEROLOGY: The Complete Guide BOOK, he said:
