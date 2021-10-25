@@ -1,4 +1,4 @@
-# ramaton - Matthew Oliver Goodwin | NUMEROLOGY | The Complete Guide API (Automation with python)
+# Ramaton - Matthew Oliver Goodwin | NUMEROLOGY | The Complete Guide API (Automation with python)
 
 ###### category: Occultism/numerology
 
@@ -12,39 +12,38 @@ Then I have translated his theory and practicise to an API, a software that calc
 **Usage:** one need to supply the
 ```
 data = {
-    firstname:'Emeka', 
-    middlename:'Uchechukwu', 
-    lastname:'Okwuego',
-    date_of_birth:'22/02/1984'
-    }
+    "firstname": "Emeka",
+    "middlename": "Uchechukwu",
+    "lastname": "Okwuego",
+    "date_of_birth": "22/02/1984"
+}
 ```
 API response: 
 
 ```
 data = {
-"lifePath": 26,
-"birthday": 22,
-"expression": 22,
-"SoulUrge": 25,
-"effectiveness_of_lifepath_expression_1": 4,
-"effectiveness_of_lifepath_soulUrge_3": 1,
-"effectiveness_of_exp_soulUrge_5": 3,
-"secret_self": 15,
-"sub_element_7": "4.4",  
-"maturity_number": 30,
-"prime_intensifier": 3,
-"modified_karmic_lesson_7": 7,
-"karmic_lesson_9": 9,
-"morethan_average_3": 2,
-"morethan_average_6": 3,
-"morethan_average_2": 8,
-"challenge": 0,
-"physical": "Strong",
-"mental": "Average",
-"emotional": "Weak",
-"intuitive": "Strong",
-"first_letter": "E",
-"first_vowel": "E"
+  "lifePath": 10,
+  "lp_sub_element": [2,4,4],
+  "birthday": 22,
+  "effectiveness_of_lifepath_exp": 10,
+  "expression": 22,
+  "exp_sub_element": [8,7,7],
+  "effectiveness_of_lifepath_soulUrge": 8,
+  "SoulUrge": 18,
+  "sU_sub_element": [11,5,2],
+  "effectiveness_of_exp_soulUrge": 2,
+  "secret_self": 13,
+  "maturity_number": 23,
+  "growth_number": 25,
+  "prime_intensifier": 5,
+  "challenge": 2,
+  "physical": "Strong",
+  "mental": "Average",
+  "emotional": "Weak",
+  "intuitive": "Strong",
+  "first_letter": "E",
+  "first_vowel": "E",
+  "number_counts": {"n1": 1,"n2": 3,"n3": 6,"n4": 1,"n5": 6,"n6": 2,"n7": 1,"n8": 2,"n9": 0}
 }
 ```
 
