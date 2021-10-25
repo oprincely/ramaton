@@ -1,15 +1,15 @@
 # ramaton - Matthew Oliver Goodwin | NUMEROLOGY | The Complete Guide API (Automation with python)
 
-#####category: Occultism/numerology
+###### category: Occultism/numerology
 
-small_description:
-Once upon a time, I met Matthew Oliver Goodwin, Through his NUMEROLOGY: The Complete Guide BOOK, he said:
+###### small description:
+Once upon a time, I met **Matthew Oliver Goodwin**, Through his _NUMEROLOGY: The Complete Guide_ BOOK, where he said:
 
 >Numerology is the study of the occult significance of numbers. It's probably the simplest of the occult fields to learn and master. Using numerology, you can discover a person's strengths and weaknesses, deep inner needs, emotional reactions, ways of dealing with others, talents.
 
-Then I have translated his theory and practical to an API, a software that calculates the numbers. I wrote it in Python language.
+Then I have translated his theory and practicise to an API, a software that calculates the numbers. I wrote it in Python language the I have to render it as a web page and **HTML**, **CSS**, and **JAVASCRIPT** help out.
 
-Usage: one need to supply the
+**Usage:** one need to supply the
 ```
 data = {
     firstname:'Emeka', 
@@ -48,5 +48,6 @@ data = {
 }
 ```
 
-try it here: https://su16oe.deta.dev/docs#/
-see demo here: https://princely.com.ng/demo/index.html
+Please try the API here [Numerology API](https://su16oe.deta.dev/docs#/).
+Please I want you to at least read your personal year here [Personal Year Reading](https://princely.com.ng/demo).
+
