@@ -7,7 +7,7 @@ Once upon a time, I met **Matthew Oliver Goodwin**, Through his _NUMEROLOGY: The
 
 >Numerology is the study of the occult significance of numbers. It's probably the simplest of the occult fields to learn and master. Using numerology, you can discover a person's strengths and weaknesses, deep inner needs, emotional reactions, ways of dealing with others, talents.
 
-Then I have translated his theory and practicise to an API, a software that calculates the numbers. I wrote it in **Python Programming language**. As a [FastApi](https://fastapi.tiangolo.com/). I have to render it as a web page and **HTML**, **CSS**, and **JAVASCRIPT** help out.
+Then I have translated his theory and practice to an API, a software that calculates the numbers. I wrote it in **Python Programming language**. As a [FastApi](https://fastapi.tiangolo.com/). I have to render it as a web page and **HTML**, **CSS**, and **JAVASCRIPT** help out.
 
 **Usage:** one need to supply the
 ```
@@ -48,5 +48,5 @@ data = {
 ```
 
 Please try the **API** here [Numerology API](https://su16oe.deta.dev/docs#/).
-Please I want you to at least read your **personal year** here [Personal Year Reading](https://princely.com.ng/demo).
+To experience the complete demo, you can at least read your **personal year** here [Personal Year Reading](https://princely.com.ng/demo).
 
