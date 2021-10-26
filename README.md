@@ -7,7 +7,7 @@ Once upon a time, I met **Matthew Oliver Goodwin**, Through his _NUMEROLOGY: The
 
 >Numerology is the study of the occult significance of numbers. It's probably the simplest of the occult fields to learn and master. Using numerology, you can discover a person's strengths and weaknesses, deep inner needs, emotional reactions, ways of dealing with others, talents.
 
-Then I have translated his theory and practice to an API, a software that calculates the numbers. I wrote it in **Python Programming language**. As a [FastApi](https://fastapi.tiangolo.com/). I have to render it as a web page and **HTML**, **CSS**, and **JAVASCRIPT** help out.
+Then I have translated his theory and practice to an API, a software that calculates the numbers. I wrote it in **Python Programming language**. As a [FastApi](https://fastapi.tiangolo.com/) hosted for free by [Deta](https://www.deta.sh/). I have to render it as a web page and **HTML**, **CSS**, and **JAVASCRIPT** help out.
 
 **Usage:** one need to supply the
 ```
