@@ -1,4 +1,4 @@
-# Ramaton - Matthew Oliver Goodwin | NUMEROLOGY | The Complete Guide API (Automation with python)
+# Ramaton: Matthew Oliver Goodwin: NUMEROLOGY: The Complete Guide: API Automation with python
 
 ###### category: Occultism/numerology
 
@@ -15,7 +15,8 @@ data = {
     "firstname": "Emeka",
     "middlename": "Uchechukwu",
     "lastname": "Okwuego",
-    "date_of_birth": "22/02/1984"
+    "date_of_birth": "22/02/1984",
+    "email": "email",
 }
 ```
 API response: 
